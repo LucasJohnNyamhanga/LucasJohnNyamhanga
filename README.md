@@ -9,4 +9,4 @@ LucasJohnNyamhanga/LucasJohnNyamhanga is a ✨ special ✨ repository because it
 You can click the Preview link to take a look at your changes.
 --->
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=LucasJohnNyamhanga&show_icons=true)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasJohnNyamhanga&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasJohnNyamhanga/shule&theme=blue-green)
