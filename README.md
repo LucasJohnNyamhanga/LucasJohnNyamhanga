@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lucas John.
 - 👀 I’m interested in computer science and things that work together.
-- 🌱 I’m currently working on shule web application, an educational platform which has a version launched on www.shule.co.tz
+- 🌱 I’m currently working on datasoft web application, which has a version launched on www.datasoft.co.tz
 - 💞️ I’m looking to collaborate on react and nextjs typescript project.
 - 📫 Reach me on lucas@database.co.tz
 
