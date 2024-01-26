@@ -3,7 +3,7 @@
 - 🌱 I’m currently available and taking projects.
 - 💞️ I’m looking to collaborate on both mobile and web projects.
 - 📫 Reach me on lucasjohn414@gmail.com
-
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
 <!---
 LucasJohnNyamhanga/LucasJohnNyamhanga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
