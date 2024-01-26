@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Lucas John.
 - 👀 I’m interested in computer science and things that work together.
-- 🌱 I’m currently working on datasoft web application, which has a version launched on www.datasoft.co.tz
-- 💞️ I’m looking to collaborate on react and nextjs typescript project.
-- 📫 Reach me on lucas@database.co.tz
+- 🌱 I’m currently available and taking projects.
+- 💞️ I’m looking to collaborate on both mobile and web projects.
+- 📫 Reach me on lucasjohn414@gmail.com
 
 <!---
 LucasJohnNyamhanga/LucasJohnNyamhanga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
