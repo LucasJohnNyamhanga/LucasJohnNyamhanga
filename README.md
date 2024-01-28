@@ -10,7 +10,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=LucasJohnNyamhanga&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LucasJohnNyamhanga&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasJohnNyamhanga&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasJohnNyamhanga&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=LucasJohnNyamhanga&theme=radical&no-frame=false&no-bg=false&margin-w=4)
