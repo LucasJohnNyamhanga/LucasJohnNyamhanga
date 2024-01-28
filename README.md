@@ -12,6 +12,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LucasJohnNyamhanga&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasJohnNyamhanga&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 <!--START_SECTION:waka-->
+
+```txt
+Dart   2 hrs 39 mins   █████████████████████████   99.74 %
+YAML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+```
+
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
