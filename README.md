@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Lucas John.<br>👀 I’m interested in computer science and things that work together.<br>🌱 I’m currently available and taking projects.<br>💞️ I’m looking to collaborate on both mobile and web projects.<br>📫 Reach me on lucasjohn414@gmail.com
+👋 Hi, I’m Lucas John, a code enthusiast exploring the wonders of computer science.<br>👀 In my coding journey, i have danced with algorithms and embranced the symphony of web and mobile development.<br>🌱 Excited to embark on new collaborative projects.<br>💞️ Let's turn ideas into digital magic.💻 <br>📫 Reach out at lucasjohn414@gmail.com and let's create something extraordinary!🚀🌟
 
 
 ## 🌐 Socials:
