@@ -17,11 +17,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Dart              2 hrs 20 mins   ████████████████████████▓   98.15 %
-XML               1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-Groovy            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-YAML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
