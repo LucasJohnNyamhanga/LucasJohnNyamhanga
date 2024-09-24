@@ -17,7 +17,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Dart   2 hrs 19 mins   ████████████████▒░░░░░░░░   65.61 %
+PHP    1 hr 2 mins     ███████▒░░░░░░░░░░░░░░░░░   29.55 %
+Bash   9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
+JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->
