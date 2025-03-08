@@ -17,10 +17,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Dart              15 mins         ██████████████░░░░░░░░░░░   56.17 %
-Groovy            5 mins          █████░░░░░░░░░░░░░░░░░░░░   20.00 %
-Java Properties   4 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.83 %
-PHP               1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
